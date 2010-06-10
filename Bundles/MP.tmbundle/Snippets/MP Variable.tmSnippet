@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;!--MPVAR: ${1:var}=${2:\${var\}}--&gt;</string>
+	<key>name</key>
+	<string>MP Variable</string>
+	<key>scope</key>
+	<string>text.html, text.xml</string>
+	<key>tabTrigger</key>
+	<string>mpvar</string>
+	<key>uuid</key>
+	<string>386E09AD-B4B0-47AA-820E-582D98D1E4B9</string>
+</dict>
+</plist>

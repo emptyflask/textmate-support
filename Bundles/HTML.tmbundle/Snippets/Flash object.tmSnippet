@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;object type="application/x-shockwave-flash" data="${1:filename.swf}" width="${2:400}" height="${3:300}" flashvars="${4}"&gt;
+	&lt;param name="movie" value="$1"${TM_XHTML}&gt;
+	&lt;param name="flashvars" value="$4"${TM_XHTML}&gt;
+	${5:&lt;img src="${6:noflash.gif}" width="$2" height="$3" alt="${7}"${TM_XHTML}&gt;}
+&lt;/object&gt;</string>
+	<key>name</key>
+	<string>Flash object</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>flash</string>
+	<key>uuid</key>
+	<string>9FD2557D-6BEB-49F6-9C3C-F66365C9A45C</string>
+</dict>
+</plist>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="5489"
+   name=""
+   committed-date="2006-10-16T11:04:05.962933Z"
+   url="http://macromates.com/svn/Bundles/trunk/Bundles/Makefile.tmbundle/Commands"
+   last-author="duff"
+   kind="dir"
+   uuid="dfb7d73b-c2ec-0310-8fea-fb051d288c6d"
+   repos="http://macromates.com/svn/Bundles"
+   revision="7440"/>
+<entry
+   committed-rev="5489"
+   name="Run.plist"
+   text-time="2007-06-06T06:21:39.000000Z"
+   committed-date="2006-10-16T11:04:05.962933Z"
+   checksum="88a085522aa9d943df9b0ec0778e7af4"
+   last-author="duff"
+   kind="file"
+   prop-time="2007-06-06T06:21:39.000000Z"/>
+</wc-entries>

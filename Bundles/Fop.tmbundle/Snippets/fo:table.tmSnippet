@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;fo:table table-layout="fixed"&gt;
+	&lt;fo:table-column column-width="1in" /&gt;
+	&lt;fo:table-head&gt;
+		&lt;fo:table-row&gt;
+			&lt;fo:table-cell&gt;
+				&lt;fo:block&gt;&lt;/fo:block&gt;
+			&lt;/fo:table-cell&gt;
+		&lt;/fo:table-row&gt;
+	&lt;/fo:table-head&gt;
+	&lt;fo:table-body&gt;
+		&lt;fo:table-row&gt;
+			&lt;fo:table-cell&gt;
+				&lt;fo:block&gt;&lt;/fo:block&gt;
+			&lt;/fo:table-cell&gt;
+		&lt;/fo:table-row&gt;
+	&lt;/fo:table-body&gt;
+&lt;/fo:table&gt;</string>
+	<key>name</key>
+	<string>fo:table</string>
+	<key>scope</key>
+	<string>text.xml</string>
+	<key>tabTrigger</key>
+	<string>table</string>
+	<key>uuid</key>
+	<string>961B5B29-AF26-4FE7-929C-7AE180A404F9</string>
+</dict>
+</plist>

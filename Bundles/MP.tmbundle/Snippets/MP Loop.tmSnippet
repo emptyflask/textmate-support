@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;!--MPLOOP: ${1:SQL("${2:select}"${3:, [\${${4:variable}\}], ${5:10000}})}--&gt;
+	$0
+&lt;!--MPENDLOOP--&gt;
+</string>
+	<key>name</key>
+	<string>MP Loop</string>
+	<key>scope</key>
+	<string>text.html, text.xml</string>
+	<key>tabTrigger</key>
+	<string>mploop</string>
+	<key>uuid</key>
+	<string>C82C618A-402E-444B-950D-5871883D74A3</string>
+</dict>
+</plist>

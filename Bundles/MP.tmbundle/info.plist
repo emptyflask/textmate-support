@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>MP</string>
+	<key>ordering</key>
+	<array>
+		<string>B3DD6BA8-FF8A-4874-AAD2-4C9F4849D903</string>
+		<string>42550700-65EC-47EE-B86D-6E0FA82341B0</string>
+		<string>AEA3F12D-F749-4129-B3D1-B175C83D9034</string>
+		<string>C82C618A-402E-444B-950D-5871883D74A3</string>
+		<string>10539EEE-7B70-4B67-AC32-163F1270E2B9</string>
+		<string>F75D9027-AEE1-43F4-83B4-626F718CAE2C</string>
+		<string>386E09AD-B4B0-47AA-820E-582D98D1E4B9</string>
+	</array>
+	<key>uuid</key>
+	<string>1AD35F17-05A2-41FA-8413-4E36541DB17F</string>
+</dict>
+</plist>

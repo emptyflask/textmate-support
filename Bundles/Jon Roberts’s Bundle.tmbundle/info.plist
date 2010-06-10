@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deleted</key>
+	<array>
+		<string>154ED053-9860-4249-B159-E7A8D7482AE5</string>
+	</array>
+	<key>name</key>
+	<string>Jon Roberts’s Bundle</string>
+	<key>ordering</key>
+	<array>
+		<string>10879DED-05AC-43F7-B6E1-A2910FA0D854</string>
+		<string>7619F7C7-15A5-40D3-9884-7491BA7F41D2</string>
+		<string>8B7B5F93-C878-4516-A74F-9324C29ED553</string>
+		<string>E5D05693-5D4F-4D90-80CD-8D8B3589E7C1</string>
+		<string>2AA27DAE-9867-403F-A6BE-4CA22BF24A32</string>
+		<string>6865A240-69DD-4B97-B229-4AF9CAA7EB9B</string>
+		<string>B5454476-03B5-4D10-8DD1-519318AEEE2A</string>
+		<string>6AF4A244-D97B-4154-86F5-8C7FD083A1AE</string>
+		<string>8A7A1586-9F43-4998-B48A-FDF8FCAD8AAB</string>
+		<string>15050DCB-CD3E-4741-B748-D6FA940B371D</string>
+		<string>303350AA-F838-4968-A7A0-9CA52539128F</string>
+		<string>E2838841-9CAC-43D6-BDFB-1C6D0097F533</string>
+		<string>44A4ADA6-8C25-45F0-916C-0B4675A59356</string>
+	</array>
+	<key>uuid</key>
+	<string>201CDBA4-B49E-435F-88AF-D3F61D706D37</string>
+</dict>
+</plist>

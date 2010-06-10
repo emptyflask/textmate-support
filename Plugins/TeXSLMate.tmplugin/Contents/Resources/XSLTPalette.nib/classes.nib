@@ -1,0 +1,38 @@
+{
+    IBClasses = (
+        {CLASS = BorderView; LANGUAGE = ObjC; SUPERCLASS = NSView; }, 
+        {
+            ACTIONS = {browse = id; transform = id; }; 
+            CLASS = FirstResponder; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {
+                browse = id; 
+                clear = id; 
+                engineChanged = id; 
+                insertParam = id; 
+                langChanged = id; 
+                removeParam = id; 
+                transform = id; 
+            }; 
+            CLASS = XSLTPaletteController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                errorScrollView = NSScrollView; 
+                errorTextView = NSTextView; 
+                paramsTable = NSTableView; 
+                prettyResultWebView = WebView; 
+                rawResultScrollView = NSScrollView; 
+                rawResultTextView = NSTextView; 
+                renderedResultWebView = WebView; 
+                service = id; 
+                splitView = NSSplitView; 
+                transformButton = NSButton; 
+            }; 
+            SUPERCLASS = NSWindowController; 
+        }
+    ); 
+    IBVersion = 1; 
+}

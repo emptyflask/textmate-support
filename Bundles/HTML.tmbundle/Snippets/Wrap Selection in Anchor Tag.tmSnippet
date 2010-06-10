@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;a ${1:href="${2:#}"} ${3:title="${4:$TM_SELECTED_TEXT}"}&gt;$TM_SELECTED_TEXT&lt;/a&gt;</string>
+	<key>keyEquivalent</key>
+	<string>^L</string>
+	<key>name</key>
+	<string>Wrap Selection in Anchor Tag</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>uuid</key>
+	<string>56451DE7-EEB0-4FCA-8D03-C232F9A432A8</string>
+</dict>
+</plist>

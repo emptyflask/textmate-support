@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;!--MPBLOCK: __FILE__--&gt;
+	$0
+&lt;!--MPENDBLOCK: __FILE__--&gt;
+</string>
+	<key>name</key>
+	<string>MP Block</string>
+	<key>scope</key>
+	<string>text.html, text.xml</string>
+	<key>tabTrigger</key>
+	<string>mpblock</string>
+	<key>uuid</key>
+	<string>B3DD6BA8-FF8A-4874-AAD2-4C9F4849D903</string>
+</dict>
+</plist>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="7072"
+   name=""
+   committed-date="2007-04-28T16:01:53.246284Z"
+   url="http://macromates.com/svn/Bundles/trunk/Bundles/Makefile.tmbundle"
+   last-author="dpowers"
+   kind="dir"
+   uuid="dfb7d73b-c2ec-0310-8fea-fb051d288c6d"
+   repos="http://macromates.com/svn/Bundles"
+   revision="7440"/>
+<entry
+   name="Commands"
+   kind="dir"/>
+<entry
+   name="Preferences"
+   kind="dir"/>
+<entry
+   committed-rev="6718"
+   name="info.plist"
+   text-time="2007-06-06T06:21:39.000000Z"
+   committed-date="2007-03-04T20:11:31.712306Z"
+   checksum="5a66525551b4ecae9b38f4e3f7d1f362"
+   last-author="duff"
+   kind="file"
+   prop-time="2007-06-06T06:21:39.000000Z"/>
+<entry
+   name="Syntaxes"
+   kind="dir"/>
+</wc-entries>

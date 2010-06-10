@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;!--MPPASSTHRU--&gt;
+	${1:(This text will not be parsed by MP)}
+&lt;!--MPENDPASSTHRU--&gt;</string>
+	<key>name</key>
+	<string>MP Passthru</string>
+	<key>scope</key>
+	<string>text.html, text.xml</string>
+	<key>tabTrigger</key>
+	<string>mppass</string>
+	<key>uuid</key>
+	<string>10539EEE-7B70-4B67-AC32-163F1270E2B9</string>
+</dict>
+</plist>

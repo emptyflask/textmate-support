@@ -1,0 +1,30 @@
+[submodule "Bundles/HAML-Handcrafted.tmbundle"]
+	path = Bundles/HAML-Handcrafted.tmbundle
+	url = git://github.com/handcrafted/handcrafted-haml-textmate-bundle.git
+[submodule "Bundles/shoulda.tmbundle"]
+	path = Bundles/shoulda.tmbundle
+	url = git://github.com/drnic/ruby-shoulda-tmbundle.git
+[submodule "Bundles/nginx.tmbundle"]
+	path = Bundles/nginx.tmbundle
+	url = git://github.com/johnmuhl/nginx-tmbundle.git
+[submodule "Bundles/Formtastic.tmbundle"]
+	path = Bundles/Formtastic.tmbundle
+	url = http://github.com/grimen/formtastic_tmbundle.git
+[submodule "Bundles/Git.tmbundle"]
+	path = Bundles/Git.tmbundle
+	url = git://gitorious.org/git-tmbundle/mainline.git
+[submodule "Bundles/Ruby Sass.tmbundle"]
+	path = Bundles/Ruby Sass.tmbundle
+	url = git://github.com/charlesr/ruby-sass-tmbundle.git
+[submodule "Bundles/Ruby on Rails.tmbundle"]
+	path = Bundles/Ruby on Rails.tmbundle
+	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
+[submodule "Bundles/Sinatra.tmbundle"]
+	path = Bundles/Sinatra.tmbundle
+	url = git://github.com/foca/sinatra-tmbundle
+[submodule "Bundles/html5.tmbundle"]
+	path = Bundles/html5.tmbundle
+	url = git://github.com/kennethreitz/html5.tmbundle.git
+[submodule "Bundles/Cucumber.tmbundle"]
+	path = Bundles/Cucumber.tmbundle
+	url = git://github.com/aslakhellesoy/cucumber-tmbundle.git

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>changed</key>
+	<dict>
+		<key>repository.smarty.patterns</key>
+		<array>
+			<dict>
+				<key>begin</key>
+				<string>(\{(literal)\})</string>
+				<key>captures</key>
+				<dict>
+					<key>1</key>
+					<dict>
+						<key>name</key>
+						<string>source.smarty.embedded.html</string>
+					</dict>
+					<key>2</key>
+					<dict>
+						<key>name</key>
+						<string>support.function.built-in.smarty</string>
+					</dict>
+				</dict>
+				<key>end</key>
+				<string>(\{/(literal)\})</string>
+			</dict>
+			<dict>
+				<key>begin</key>
+				<string>{{|{</string>
+				<key>disabled</key>
+				<integer>0</integer>
+				<key>end</key>
+				<string>}}|}</string>
+				<key>name</key>
+				<string>source.smarty.embedded.html</string>
+				<key>patterns</key>
+				<array>
+					<dict>
+						<key>include</key>
+						<string>source.smarty</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<key>deleted</key>
+	<array/>
+	<key>isDelta</key>
+	<true/>
+	<key>uuid</key>
+	<string>17994EC8-6B1D-11D9-AC3A-000D93589AF6</string>
+</dict>
+</plist>
