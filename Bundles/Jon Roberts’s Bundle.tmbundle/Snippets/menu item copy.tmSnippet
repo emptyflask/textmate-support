@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>menu.item ${1/\s//g}Controller, :path =&gt; :${2:${1/[[:alpha:]]+|( )/(?1:_:\L$0)/g}}_path, :text =&gt; "${1:name}", :if =&gt; Proc.new {|view| view.can?(:${3:index}, ${4:${1/\s|[s]$//g}})}</string>
+	<key>name</key>
+	<string>menu item copy</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>m</string>
+	<key>uuid</key>
+	<string>EC71164D-0C21-424B-966B-DC61666EBC62</string>
+</dict>
+</plist>

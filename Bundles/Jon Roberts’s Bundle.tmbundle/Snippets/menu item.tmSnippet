@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{
+  :name =&gt; "${1:name}",
+  :path =&gt; ${2:${1/[[:alpha:]]+|( )/(?1:_:\L$0)/g}}_path,
+  :permissions =&gt; can?(:${3:index}, ${4:${1/\s|[s]$//g}})
+},$0</string>
+	<key>name</key>
+	<string>menu item</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>mi</string>
+	<key>uuid</key>
+	<string>F597D0AA-A937-4FF9-986D-D59B25AFB74B</string>
+</dict>
+</plist>
