@@ -37,3 +37,6 @@
 [submodule "Bundles/RDoc.tmbundle"]
 	path = Bundles/RDoc.tmbundle
 	url = git://github.com/joshaven/RDoc.tmbundle.git
+[submodule "Bundles/GoToFile.tmbundle"]
+	path = Bundles/GoToFile.tmbundle
+	url = git://github.com/amiel/gotofile.tmbundle.git
