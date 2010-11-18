@@ -13,9 +13,6 @@
 [submodule "Bundles/Ruby Sass.tmbundle"]
 	path = Bundles/Ruby Sass.tmbundle
 	url = git://github.com/charlesr/ruby-sass-tmbundle.git
-[submodule "Bundles/Ruby on Rails.tmbundle"]
-	path = Bundles/Ruby on Rails.tmbundle
-	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
 [submodule "Bundles/Sinatra.tmbundle"]
 	path = Bundles/Sinatra.tmbundle
 	url = git://github.com/foca/sinatra-tmbundle
