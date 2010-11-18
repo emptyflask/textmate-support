@@ -10,9 +10,6 @@
 [submodule "Bundles/Formtastic.tmbundle"]
 	path = Bundles/Formtastic.tmbundle
 	url = http://github.com/grimen/formtastic_tmbundle.git
-[submodule "Bundles/Git.tmbundle"]
-	path = Bundles/Git.tmbundle
-	url = git://gitorious.org/git-tmbundle/mainline.git
 [submodule "Bundles/Ruby Sass.tmbundle"]
 	path = Bundles/Ruby Sass.tmbundle
 	url = git://github.com/charlesr/ruby-sass-tmbundle.git
