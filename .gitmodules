@@ -37,6 +37,3 @@
 [submodule "Bundles/Git.tmbundle"]
 	path = Bundles/Git.tmbundle
 	url = git://github.com/jcf/git-tmbundle.git
-[submodule "Bundles/Ruby on Rails.tmbundle"]
-	path = Bundles/Ruby on Rails.tmbundle
-	url = git://github.com/carlosbrando/ruby-on-rails-tmbundle.git
