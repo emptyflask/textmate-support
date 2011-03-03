@@ -3,24 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>IR_Black</string>
+	<string>IR_Black times infinity</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#000000</string>
+				<string>#0B0C0D</string>
 				<key>caret</key>
 				<string>#FFFFFF</string>
 				<key>foreground</key>
 				<string>#EDEDED</string>
 				<key>invisibles</key>
-				<string>#CAE2FB3D</string>
+				<string>#67727E4D</string>
 				<key>lineHighlight</key>
 				<string>#FFFFFF24</string>
 				<key>selection</key>
-				<string>#333333</string>
+				<string>#132D4B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -31,7 +31,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string></string>
+				<string>italic</string>
 				<key>foreground</key>
 				<string>#7C7C7C</string>
 			</dict>
@@ -161,7 +161,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#A8FF60</string>
+				<string>#83B45A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -174,7 +174,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#FF73FD</string>
+				<string>#CA6467</string>
 			</dict>
 		</dict>
 		<dict>
@@ -805,6 +805,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>D039AEA9-9DD2-4237-A963-E84494B0B3FB</string>
+	<string>D36D684C-8CC7-4B48-B21D-0D19D7D54965</string>
 </dict>
 </plist>

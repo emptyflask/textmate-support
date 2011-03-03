@@ -3,26 +3,26 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Chris Thomas</string>
+	<string>Derek Anderson</string>
 	<key>name</key>
-	<string>Tango</string>
+	<string>Upstream</string>
 	<key>settings</key>
 	<array>
 		<dict>
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#FFFFFF</string>
+				<string>#000000F2</string>
 				<key>caret</key>
-				<string>#000000</string>
+				<string>#E2F6FF</string>
 				<key>foreground</key>
-				<string>#303436</string>
+				<string>#E2F6FF</string>
 				<key>invisibles</key>
-				<string>#BFBFBF</string>
+				<string>#222222</string>
 				<key>lineHighlight</key>
-				<string>#0000000F</string>
+				<string>#181818</string>
 				<key>selection</key>
-				<string>#4D97FF54</string>
+				<string>#FE73FD4D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -33,9 +33,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string>bold italic</string>
 				<key>foreground</key>
-				<string>#555753</string>
+				<string>#555555</string>
 			</dict>
 		</dict>
 		<dict>
@@ -48,7 +48,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#303436</string>
+				<string>#B75C4C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -100,7 +100,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#194A87</string>
+				<string>#4F6489</string>
 			</dict>
 		</dict>
 		<dict>
@@ -113,7 +113,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A70000</string>
+				<string>#939F84</string>
 			</dict>
 		</dict>
 		<dict>
@@ -126,7 +126,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#A70000</string>
+				<string>#E2F6F2</string>
 			</dict>
 		</dict>
 		<dict>
@@ -165,7 +165,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#5C3566</string>
+				<string>#FFD767</string>
 			</dict>
 		</dict>
 		<dict>
@@ -223,6 +223,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>italic</string>
+				<key>foreground</key>
+				<string>#E2F6FF</string>
 			</dict>
 		</dict>
 		<dict>
@@ -235,7 +237,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#3C4C72</string>
+				<string>#BCBE42</string>
 			</dict>
 		</dict>
 		<dict>
@@ -248,7 +250,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#D15B00</string>
+				<string>#FFF7B0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -310,6 +312,8 @@
 			<dict>
 				<key>background</key>
 				<string>#FFD0D0</string>
+				<key>foreground</key>
+				<string>#0A0B0C</string>
 			</dict>
 		</dict>
 		<dict>
@@ -320,7 +324,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#0000000D</string>
+				<string>#18111100</string>
 			</dict>
 		</dict>
 		<dict>
@@ -403,7 +407,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string></string>
+				<key>foreground</key>
+				<string>#89725B</string>
 			</dict>
 		</dict>
 		<dict>
@@ -445,6 +451,6 @@
 		</dict>
 	</array>
 	<key>uuid</key>
-	<string>509B45AB-A33A-472C-80CF-656718CEECC9</string>
+	<string>0CC6E3EE-35F7-43D5-BD39-63528B5A3C27</string>
 </dict>
 </plist>
