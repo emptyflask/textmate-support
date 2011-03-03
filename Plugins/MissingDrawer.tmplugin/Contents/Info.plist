@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>MissingDrawer</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.jannisleidel.tmplugin.missingdrawer</string>
+	<string>com.github.jezdez.textmate-missingdrawer</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -15,12 +15,12 @@
 	<key>CFBundlePackageType</key>
 	<string>BNDL</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2008-02-14</string>
+	<string>2010-11-28</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>2</string>
+	<string>3</string>
 	<key>NSPrincipalClass</key>
-	<string>HTMDMissingDrawer</string>
+	<string>MDMissingDrawer</string>
 </dict>
 </plist>
