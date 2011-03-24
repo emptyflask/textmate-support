@@ -1,5 +1,5 @@
-[submodule "Bundles/HAML-Handcrafted.tmbundle"]
-	path = Bundles/HAML-Handcrafted.tmbundle
+[submodule "Bundles/Haml.tmbundle"]
+	path = Bundles/Haml.tmbundle
 	url = git://github.com/phuibonhoa/handcrafted-haml-textmate-bundle.git
 [submodule "Bundles/shoulda.tmbundle"]
 	path = Bundles/shoulda.tmbundle
