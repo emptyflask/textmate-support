@@ -21,7 +21,7 @@
 	url = git://github.com/kennethreitz/html5.tmbundle.git
 [submodule "Bundles/Cucumber.tmbundle"]
 	path = Bundles/Cucumber.tmbundle
-	url = git://github.com/aslakhellesoy/cucumber-tmbundle.git
+	url = git://github.com/cucumber/cucumber-tmbundle.git
 [submodule "Bundles/javascript.tmbundle"]
 	path = Bundles/javascript.tmbundle
 	url = http://github.com/subtleGradient/javascript.tmbundle.git
@@ -40,3 +40,6 @@
 [submodule "Bundles/Ruby on Rails.tmbundle"]
 	path = Bundles/Ruby on Rails.tmbundle
 	url = git://github.com/drnic/ruby-on-rails-tmbundle.git
+[submodule "Bundles/CoffeeScript.tmbundle"]
+	path = Bundles/CoffeeScript.tmbundle
+	url = git://github.com/jashkenas/coffee-script-tmbundle
